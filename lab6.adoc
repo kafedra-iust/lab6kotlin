@@ -18,6 +18,8 @@ image::pic/image001.png[]
 image::pic/image002.png[]
 &nbsp;
 
+<<<
+
 === Варіант 3
 image::pic/image003.png[]
 &nbsp;
@@ -30,6 +32,7 @@ image::pic/image004.png[]
 image::pic/image005.png[]
 &nbsp;
 
+<<<
 === Варіант 6
 image::pic/image006.png[]
 &nbsp;
@@ -42,7 +45,7 @@ image::pic/image007.png[]
 image::pic/image008.png[]
 &nbsp;
 
-'''
+<<<
 === Варіант 9
 image::pic/image009.png[]
 &nbsp;
@@ -55,7 +58,8 @@ image::pic/image010.png[]
 image::pic/image011.png[]
 &nbsp;
 
-'''
+
+<<<
 === Варіант 12
 image::pic/image012.png[]
 &nbsp;
@@ -68,7 +72,8 @@ image::pic/image013.png[]
 image::pic/image014.png[]
 &nbsp;
 
-'''
+
+<<<
 === Варіант 15
 image::pic/image015.png[]
 &nbsp;
@@ -81,7 +86,8 @@ image::pic/image016.png[]
 image::pic/image017.png[]
 &nbsp;
 
-'''
+
+<<<
 === Варіант 18
 image::pic/image018.png[]
 
@@ -91,6 +97,8 @@ image::pic/image019.png[]
 === Варіант 20
 image::pic/image020.png[]
 
+
+<<<
 == Завдання 6.2
 Згідно варіанту з завдання 6.1 знайти суму та середнє арифметичне значення елементів зафарбованої частини масиву
 
